@@ -6,7 +6,12 @@ A simple Amazon Polly web app built using Vue.
 
 - AWS account
 - Node.js
-- blah
+- Vue/cli
+
+## Code update 
+
+Update these lines with your Amazon Cognito Identity Pool credentials
+https://github.com/dtolbertcooke/Amazon-Polly/blob/3dd9da1562b883be99aa4a2f49eeb0c579ea30f0/src/components/Polly-UI.vue#L19-L21
 
 ## Project setup
 
